@@ -1,0 +1,10 @@
+main: me.bolopaul.mctesta04.MCTestA04
+name: MCTestA04
+version: 0.1
+author: BoLoPaul
+api-version: 1.16
+
+commands:
+    fuck:
+    a04reloadconfig:
+    escdetect:
